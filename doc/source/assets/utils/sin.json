@@ -1,0 +1,37 @@
+{
+    "expansions": [ {
+       "input_terms": [
+          "carro"
+        ], "expanded_terms": [
+          "auto",
+          "autos",
+          "automóvel",
+          "veículo"
+        ]
+      },
+      {
+       "input_terms": [
+         "Inteligência Artificial"
+        ], "expanded_terms": [
+          "IA",
+          "Inteligência Artificial"
+        ]
+      },
+      {
+        "input_terms": [
+          "Deep learning"
+         ], "expanded_terms": [
+          "Deep learning",
+           "Aprendizado profundo"
+         ]
+       },
+       {
+        "input_terms": [
+          "Machine learning"
+         ], "expanded_terms": [
+           "Aprendizado de maquina"
+         ]
+       }
+    ]
+  }
+ 
